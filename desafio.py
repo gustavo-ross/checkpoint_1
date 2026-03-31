@@ -4,7 +4,8 @@ tentativa = 0
 palpite = 0
 num = random.randint(1, 100)
 
-print("Adivinhe o número secreto entre 1 e 100.")
+Print("JOGO DE ADIVINHAÇÃO")
+print("Tente adivinhar o número secreto entre 1 e 100 para vencer!")
 
 while True:
     if tentativa == 8:
