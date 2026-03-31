@@ -19,7 +19,7 @@ while True:
         break
     elif palpite > num:
         print("O número secreto é menor.")
-    elif palpite < num:
+    else:
         print("O número secreto é maior.")
 
     tentativa += 1
